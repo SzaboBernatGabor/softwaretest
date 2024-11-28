@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: uni.sw.unit.testing.TriangleTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.077 s -- in uni.sw.unit.testing.TriangleTest
+uni.sw.unit.testing.TriangleTest.testRightTriangle -- Time elapsed: 0.022 s
+uni.sw.unit.testing.TriangleTest.testArea -- Time elapsed: 0.003 s
+uni.sw.unit.testing.TriangleTest.testIsoscelesTriangle -- Time elapsed: 0.003 s
+uni.sw.unit.testing.TriangleTest.testEquilateral -- Time elapsed: 0.001 s
+uni.sw.unit.testing.TriangleTest.testGenericTriangle -- Time elapsed: 0.002 s
+uni.sw.unit.testing.TriangleTest.testNotConstructableTriangle -- Time elapsed: 0.003 s
+uni.sw.unit.testing.TriangleTest.testPerimeter -- Time elapsed: 0.001 s
+uni.sw.unit.testing.TriangleTest.testFibonacchi -- Time elapsed: 0.001 s

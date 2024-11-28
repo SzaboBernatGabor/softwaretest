@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: uni.sw.unit.testing.TriangleParameterizedTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.009 s -- in uni.sw.unit.testing.TriangleParameterizedTest
+uni.sw.unit.testing.TriangleParameterizedTest.testTriangle(String, int, int, int, boolean, boolean, boolean) skipped

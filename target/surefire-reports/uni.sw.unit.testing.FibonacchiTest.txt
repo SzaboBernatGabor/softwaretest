@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: uni.sw.unit.testing.FibonacchiTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.058 s -- in uni.sw.unit.testing.FibonacchiTest
+uni.sw.unit.testing.FibonacchiTest.testElements -- Time elapsed: 0.030 s
